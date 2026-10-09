@@ -1,0 +1,22 @@
+[
+  { "id": "1", "name": "Classic Steak & Peppercorn Sauce", "price": 35.90, "category": "Food", "image": "steak_peppercorn.jpg" },
+  { "id": "2", "name": "Grilled Chicken Chop", "price": 18.90, "category": "Food", "image": "grilled_chickenchop.jpg" },
+  { "id": "3", "name": "Fish & Chips", "price": 19.90, "category": "Food", "image": "fish_and_chip.jpg" },
+  { "id": "4", "name": "Beef Burger Deluxe", "price": 16.90, "category": "Food", "image": "beef_burger_deluxe.jpg" },
+  { "id": "5", "name": "Slow-Roasted Lamb Shank", "price": 32.90, "category": "Food", "image": "roasted_lamb_shank.jpg" },
+  { "id": "6", "name": "BBQ Ribs", "price": 28.90, "category": "Food", "image": "bbq_ribs.jpg" },
+  { "id": "7", "name": "Chicken Parmesan", "price": 19.90, "category": "Food", "image": "chicken_parmesan.jpg" },
+  { "id": "8", "name": "Pan-Seared Salmon", "price": 25.90, "category": "Food", "image": "pan_salmon.jpg" },
+  { "id": "9", "name": "Shepherd's Pie", "price": 16.90, "category": "Food", "image": "shepherd_pie.jpg" },
+  { "id": "10", "name": "Strip Steak", "price": 38.90, "category": "Food", "image": "strip_steak.jpg" },
+  { "id": "11", "name": "Creamy Mashed Potatoes", "price": 6.90, "category": "Side Dish", "image": "mashed_potato.jpg" },
+  { "id": "12", "name": "Seasoned French Fries", "price": 5.90, "category": "Side Dish", "image": "french_fries.jpg" },
+  { "id": "13", "name": "10-Piece Chicken Nuggets", "price": 8.90, "category": "Side Dish", "image": "chicken_nuggets.jpg" },
+  { "id": "14", "name": "Macaroni & Cheese", "price": 9.90, "category": "Side Dish", "image": "mac_and_cheese.jpg" },
+  { "id": "15", "name": "Caesar Salad", "price": 10.90, "category": "Side Dish", "image": "caesar_salad.jpg" },
+  { "id": "16", "name": "Iced Tea", "price": 3.50, "category": "Drink", "image": "ice_tea.jpg" },
+  { "id": "17", "name": "Iced Lemonade", "price": 4.50, "category": "Drink", "image": "lemonade.jpg" },
+  { "id": "18", "name": "Iced Chocolate", "price": 6.50, "category": "Drink", "image": "ice_chocolate.jpg" },
+  { "id": "19", "name": "Iced Coffee", "price": 5.50, "category": "Drink", "image": "ice_coffee.jpg" },
+  { "id": "20", "name": "Iced Vanilla Blue", "price": 6.90, "category": "Drink", "image": "vanilla_blue.jpg" }
+]
